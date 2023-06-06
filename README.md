@@ -19,4 +19,6 @@ I think that my friend Alva is a Transformer
 
 My other friend is a sad fish and a folio
 
+My friend Reyes is a fan of Sonic and his blood is coffee
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

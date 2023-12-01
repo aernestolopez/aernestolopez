@@ -15,7 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aernestolopez&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I think that my friend Alva is a Transformer
+I think my friend Alva is a Transformer
 
 My other friend is a sad fish and a folio
 
